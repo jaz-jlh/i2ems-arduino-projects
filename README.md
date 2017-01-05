@@ -16,3 +16,6 @@ An internet-connected automated desktop greenhouse.
 * Measures temperature and records to database through PHP and SQL
 * Controls temperature through "bang-bang" control of heater and opening of greenhouse lid (hysteresis in control to prevent rapid switching)
 * Displays current status on LCD
+
+
+See [my portfolio](https://drive.google.com/open?id=0B3Y5DLBJ2TJWdFhZNHNGVEc0V2M) for further description and picture/video links
