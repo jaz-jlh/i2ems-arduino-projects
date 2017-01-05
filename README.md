@@ -11,7 +11,8 @@ A built-from-scratch, line-following, delivery robot.
 * Uses servo to drop off small packages
 
 **Smart Greenhouse**
-A internet-connected automated desktop greenhouse.
+
+An internet-connected automated desktop greenhouse.
 * Measures temperature and records to database through PHP and SQL
 * Controls temperature through "bang-bang" control of heater and opening of greenhouse lid (hysteresis in control to prevent rapid switching)
 * Displays current status on LCD
